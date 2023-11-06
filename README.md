@@ -7,6 +7,8 @@
 * While the website continuously updates the book's price, I will write code to extract the price and automatically send an email to myself (using smtplib) notifying when the price is below my cut-off price, or in other words, the price I am willing to pay.
 
 
+
+
 * ![pic06](https://github.com/anhthiphuongtran/web-scraping/assets/105230494/42d72614-bd31-4a30-af95-0c7a4346ed45)
 
 
