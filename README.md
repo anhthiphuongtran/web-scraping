@@ -10,7 +10,7 @@
 ## Dependencies:
 
 1. Python v3.x is required.
-2. Beautiful Soup library is required to scape web data.
+2. Beautiful Soup library is required to scrape web data.
 3. Smtp module is required to send email automatically within the program.
 
 ## Additional information
