@@ -9,9 +9,9 @@ header = {
     "Accept-Language": "en-US,en;q=0.9"
 }
 
-# Provide the email address and password to send email via smtp.
-MY_EMAIL = "tulunpct92@gmail.com"
-MY_PASSWORD ="jsmynkmnxobescgq"
+# Provide the email address and password to send email via smtp. Here for confidentiality, I do not show my password in the code. 
+MY_EMAIL = "tulunpct92@gmail.com"  
+MY_PASSWORD = MY_APP_PASSWORD
 
 # Set the lowest price you are willing to pay for the product (the cut-off price).
 BUY_PRICE = 210
